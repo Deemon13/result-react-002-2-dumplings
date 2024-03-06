@@ -1,5 +1,5 @@
 import styles from './css-modules/app.module.css';
-import data from './data/data.json';
+// import data from './data/data.json';
 
 export const App = () => {
 	// Можно задать 2 состояния — steps и activeIndex
